@@ -1,6 +1,6 @@
-# NET2008 PA2 - Fleet Compliance Auditore
-Eric Schwab
-041271210
+# NET2008 PA2 - Fleet Compliance Auditor
+Name: Eric Schwab
+Student ID: 041271210
 
 ## Requirements
 Python 3 and PyYAML.
